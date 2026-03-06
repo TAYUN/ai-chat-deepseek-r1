@@ -1,18 +1,4 @@
-# EdgeOne Pages AI: Utilize DeepSeek R1 for free at the edge.
-
-Utilize DeepSeek R1 in edge functions with integrated web search capabilities.
-
-The search functionality utilizes [searxng](https://github.com/searxng/searxng) and is encapsulated via [EdgeOne Pages functions](https://edgeone.ai/document/162227908259442688).
-
-After deployment, the interface ensures a consistent experience with OpenAI and seamlessly integrates with other third-party tools.
-
-## Deploy
-
-[![Deploy with EdgeOne Pages](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?from=github&template=deepseek-r1-edge)
-
-Live Example: [https://deepseek-r1-edge.edgeone.app](https://deepseek-r1-edge.edgeone.app)
-
-More Templates: [EdgeOne Pages](https://edgeone.ai/pages/templates)
+# AI CHAT: Utilize DeepSeek R1 for free at the project.
 
 ## Getting Started
 
